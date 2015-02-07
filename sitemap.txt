@@ -24,6 +24,23 @@ http://avidsense.com/engineering-the-mind/
 
 
 
+http://avidsense.com/economic-entrophy-decline-and-collapse/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -73,20 +90,6 @@ http://avidsense.com/CNAME
 http://avidsense.com/
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 http://avidsense.com/archives/
 
 
@@ -97,9 +100,6 @@ http://avidsense.com/sitemap.xml
 
 
 http://avidsense.com/sitemap.txt
-
-
-http://avidsense.com/economic-entrophy/
 
 
 
@@ -116,6 +116,12 @@ http://avidsense.com/tags/psychology/
 http://avidsense.com/tags/philosophy/
 
 
+http://avidsense.com/tags/economics/
+
+
+http://avidsense.com/tags/politics/
+
+
 http://avidsense.com/tags/chemistry/
 
 
@@ -123,10 +129,4 @@ http://avidsense.com/tags/psychedelics/
 
 
 http://avidsense.com/tags/survival/
-
-
-http://avidsense.com/tags/economics/
-
-
-http://avidsense.com/tags/politics/
 

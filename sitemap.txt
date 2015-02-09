@@ -92,6 +92,9 @@ http://avidsense.com/favicon.ico
 http://avidsense.com/understanding-psychedelics/
 
 
+http://avidsense.com/forum-government/
+
+
 http://avidsense.com/CNAME
 
 
@@ -137,4 +140,10 @@ http://avidsense.com/tags/chemistry/
 
 
 http://avidsense.com/tags/psychedelics/
+
+
+http://avidsense.com/tags/government/
+
+
+http://avidsense.com/tags/policy/
 

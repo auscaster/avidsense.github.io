@@ -125,6 +125,9 @@ http://avidsense.com/article_item/
 http://avidsense.com/sitemap.xml
 
 
+http://avidsense.com/downside-of-marijuana-legalisation/
+
+
 http://avidsense.com/sitemap.txt
 
 
@@ -173,4 +176,7 @@ http://avidsense.com/tags/government/
 
 
 http://avidsense.com/tags/policy/
+
+
+http://avidsense.com/tags/legalisation/
 
